@@ -1,0 +1,9 @@
+{
+  "vpmRepositories": [
+    "https://vpm.anatawa12.com/vpm.json"
+  ],
+  "vpmDependencies": {
+    "com.anatawa12.avatar-optimizer": "0.x.x"
+  },
+  "includePrerelease": true
+}
