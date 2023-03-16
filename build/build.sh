@@ -19,15 +19,18 @@ curl --request GET -sL \
      --url "https://github.com/anatawa12/VPMPackageAutoInstaller/releases/download/v$VPAI_VERSION/creator.mjs" \
      --output "$BASE_FOLDER/creator.mjs"
 
-for file in *
+mkdir -p bin
+
+for file in src/*
 do
   if [[ ! "$file" =~ \.json$ ]] || [[ "$file" =~ \.min\.json$ ]]; then
     continue 
   fi
 
   name="${file%.json}"
-  minified="$name.min.json"
-  unitypackage="$name-installer.unitypackage"
+  name="${name##*/}"
+  minified="bin/$name.min.json"
+  unitypackage="bin/$name-installer.unitypackage"
 
   minify "$file" "$minified"
   create "$minified" "$unitypackage"
