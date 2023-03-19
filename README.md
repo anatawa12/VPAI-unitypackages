@@ -9,6 +9,7 @@ Currently based on [0.3.0][vpai-release-link].
 
 - [animator-controller-as-a-code-0.2.x] for [AnimatorController as a Code].
 - [AvatarOptimizer-0.1.x] for [AvatarOptimizer]
+- [AvatarOptimizer-0.2.x] for [AvatarOptimizer]
 - [AvatarOptimizer-0.x.x-beta] for [AvatarOptimizer]
 - [lilAvatarUtils-1.x.x] for [lilAvatarUtils]
 - [lilToon-1.x.x] for [lilToon]
@@ -16,6 +17,7 @@ Currently based on [0.3.0][vpai-release-link].
 
 [animator-controller-as-a-code-0.2.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/animator-controller-as-a-code-0.2.x-installer.unitypackage
 [AvatarOptimizer-0.1.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/AvatarOptimizer-0.1.x-installer.unitypackage
+[AvatarOptimizer-0.2.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/AvatarOptimizer-0.2.x-installer.unitypackage
 [AvatarOptimizer-0.x.x-beta]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/AvatarOptimizer-0.x.x-beta-installer.unitypackage
 [lilAvatarUtils-1.x.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/lilAvatarUtils-1.x.x-installer.unitypackage
 [lilToon-1.x.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/lilToon-1.x.x-installer.unitypackage
