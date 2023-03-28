@@ -1,0 +1,8 @@
+{
+  "vpmRepositories": [
+    "https://www.negura-karasu.net/vpm/"
+  ],
+  "vpmDependencies": {
+    "yagihata.radialinventorysystem.v4": "4.x.x"
+  }
+}
