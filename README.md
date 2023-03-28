@@ -14,6 +14,7 @@ Currently based on [0.3.0][vpai-release-link].
 - [lilAvatarUtils-1.x.x] for [lilAvatarUtils]
 - [lilToon-1.x.x] for [lilToon]
 - [modular-avatar-1.x.x] for [modular-avatar]
+- [radialinventorysystem-4.x.x] for [RadialInventorySystem] ([booth][RadialInventorySystem-booth])
 
 [animator-controller-as-a-code-0.2.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/animator-controller-as-a-code-0.2.x-installer.unitypackage
 [AvatarOptimizer-0.1.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/AvatarOptimizer-0.1.x-installer.unitypackage
@@ -22,11 +23,14 @@ Currently based on [0.3.0][vpai-release-link].
 [lilAvatarUtils-1.x.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/lilAvatarUtils-1.x.x-installer.unitypackage
 [lilToon-1.x.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/lilToon-1.x.x-installer.unitypackage
 [modular-avatar-1.x.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/modular-avatar-1.x.x-installer.unitypackage
+[radialinventorysystem-4.x.x]: https://github.com/anatawa12/VPAI-unitypackages/raw/master/bin/radialinventorysystem-4.x.x-installer.unitypackage
 
 [AnimatorController as a Code]: https://github.com/anatawa12/AnimatorController-as-a-Code
 [AvatarOptimizer]: https://github.com/anatawa12/AvatarOptimizer
 [lilAvatarUtils]: https://github.com/lilxyzw/lilAvatarUtils
 [lilToon]: https://github.com/lilxyzw/lilToon
 [modular-avatar]: https://github.com/bdunderscore/modular-avatar
+[RadialInventorySystem]: https://github.com/Yagihata/RadialInventorySystem
+[RadialInventorySystem-booth]: https://booth.pm/ja/items/2278448
 
 [VPAI]: https://github.com/anatawa12/VPMPackageAutoInstaller
