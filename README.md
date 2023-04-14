@@ -1,6 +1,9 @@
 # VPAI unitypackages
 
-Installer unitypackage usingbin/ [VPAI] for popular packages.
+Installer unitypackage using [VPAI] for popular packages.
+
+You can request to add your project to this using PullRequest if you are project collaborators!
+Once your project is added, I'll update unitypackage everytime VPAI is released.
 
 <!-- Don't forget update link & build.sh when update version -->
 Currently based on [0.3.3][vpai-release-link].
