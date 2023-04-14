@@ -3,9 +3,9 @@
 Installer unitypackage usingbin/ [VPAI] for popular packages.
 
 <!-- Don't forget update link & build.sh when update version -->
-Currently based on [0.3.1][vpai-release-link].
+Currently based on [0.3.2][vpai-release-link].
 
-[vpai-release-link]: https://github.com/anatawa12/VPMPackageAutoInstaller/releases/tag/v0.3.1
+[vpai-release-link]: https://github.com/anatawa12/VPMPackageAutoInstaller/releases/tag/v0.3.2
 
 - [animator-controller-as-a-code-0.2.x] for [AnimatorController as a Code].
 - [AvatarOptimizer-0.1.x] for [AvatarOptimizer]

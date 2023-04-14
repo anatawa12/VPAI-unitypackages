@@ -14,7 +14,7 @@ minify() {
 
 # download creator
 # don't forget version name in README.md
-VPAI_VERSION=0.3.1
+VPAI_VERSION=0.3.2
 curl --request GET -sL \
      --url "https://github.com/anatawa12/VPMPackageAutoInstaller/releases/download/v$VPAI_VERSION/creator.mjs" \
      --output "$BASE_FOLDER/creator.mjs"
