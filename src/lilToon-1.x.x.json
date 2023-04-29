@@ -1,8 +1,0 @@
-{
-  "vpmRepositories": [
-    "https://lilxyzw.github.io/vpm-repos/vpm.json"
-  ],
-  "vpmDependencies": {
-    "jp.lilxyzw.liltoon": "1.x.x"
-  }
-}

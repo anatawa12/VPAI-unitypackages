@@ -1,8 +1,0 @@
-{
-  "vpmRepositories": [
-    "https://vpm.nadena.dev/vpm.json"
-  ],
-  "vpmDependencies": {
-    "nadena.dev.modular-avatar": "1.x.x"
-  }
-}
